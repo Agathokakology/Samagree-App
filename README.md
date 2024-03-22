@@ -24,8 +24,7 @@ Full Stack Amazon Clone along with Admin Panel
     - Viewing Total Earnings
     - Viewing Category Based Earnings (on Graph)
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/O3nmP-lZAdg) 
+
 
 
 
