@@ -1,4 +1,4 @@
-# Amazon Clone
+
 
 Full Stack Amazon Clone along with Admin Panel
 
@@ -27,13 +27,11 @@ Full Stack Amazon Clone along with Admin Panel
 ## YouTube
 I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/O3nmP-lZAdg) 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
+
 
 
 ## Running Locally
-After cloning this repository, migrate to ```flutter-amazon-clone-tutorial``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```Samagree-App``` folder. Then, follow the following steps:
 - Create MongoDB Project & Cluster
 - Click on Connect, follow the process where you will get the uri.- Replace the MongoDB uri with yours in ```server/index.js```.
 - Head to ```lib/constants/global_variables.dart``` file, replace <yourip> with your IP Address. 
@@ -63,6 +61,3 @@ Then run the following commands to run your app:
 
 **Client**: Flutter, Provider
     
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
